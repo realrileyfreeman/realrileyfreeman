@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Omar Camara 👋</h1>
 
-<h3 align="center">Cybersecurity Master's Student (Oteria Cyber School) Paris, France | Hybrid Profile: GRC & SOC</h3>
+<h3 align="center">Cybersecurity Master's Student (Oteria Cyber School) Paris, France | Hybrid Profile: GRC & DEVSECOPS</h3>
 
 <p align="center">
   Transitioning from 3 years of complex Digital & Data Project Management to Cybersecurity. 
@@ -20,10 +20,10 @@
 
 ### 🛡️ About Me
 
-- 🎓 **Current Focus:** Master Expert en Cybersécurité (M1) at **Oteria Cyber School** (Starting Sept 2026).
+- 🎓 **Current Focus:** Master Expert en Cybersécurité (M1) at **Oteria Cyber School** (Ending August 2028).
 - 💼 **Background:** 3 years in Digital Project Management (Prisma Media) & Data Analysis. Used to Agile methodology, KPIs, and driving cross-functional teams.
-- 🎯 **Goal:** Seeking a 12 to 24-month work-study program (Alternance 3 weeks / 1 week) in **GRC (Governance, Risk, and Compliance)** or **SOC / Cyber Defense**.
-- 💡 **Superpower:** Translating complex technical risks into clear business impacts for non-technical stakeholders.
+- 🎯 **Goal:** Cybersecurity apprentice, focused on GRC (Governance, Risk & Compliance) and DevSecOps. I like bridging risk management (ISO 27001, EBIOS RM, NIS2) with security built into the development lifecycle.**.
+- 💡 **Superpower:** Translating complex technical risks into clear business impacts for non-technical stakeholders. Hybrid profile
 
 ---
 
@@ -54,6 +54,15 @@
   <img src="https://img.shields.io/badge/Agile_Methodology-E34F26?style=for-the-badge" />
 </p>
 
+#### **DevSecOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 ---
 
 ### 🚀 Featured Projects
